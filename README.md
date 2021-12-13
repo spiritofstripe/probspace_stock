@@ -1,1 +1,3 @@
-# probspace_stock
+# ProbSpace 米国株式市場　将来株価予測　データと解法置き場
+しし\
+# 1.収納物構成
