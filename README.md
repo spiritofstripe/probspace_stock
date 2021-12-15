@@ -10,6 +10,8 @@ https://comp.probspace.com/competitions/us_stock_price
 ◆コンペ提供データ(company_list.csv , submission_template.csv , train_data.csv)
 
 ◆スクリプト(株価_前処理.R , 本体.R)
+自分のローカル環境が貧弱なため、株価_前処理.Rで株価部分だけ先に前処理を実施し、一時保存フォルダに格納、
+その後、本体.Rで他の前処理をして、株価_前処理.Rの内容を合体させています。
 
 ◆その他(LICENSE(MITライセンスの記載) , READNE.md)
 
