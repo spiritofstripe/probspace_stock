@@ -7,15 +7,8 @@ https://comp.probspace.com/competitions/us_stock_price
 外部データの使用は禁止。
 
 # 3.ページ構成
-◆コンペ提供データ
-・company_list.csv
-・submission_template.csv
-・train_data.csv
+◆コンペ提供データ(company_list.csv , submission_template.csv , train_data.csv)
 
-◆スクリプト
-・株価_前処理.R
-・本体.R
+◆スクリプト(株価_前処理.R , 本体.R)
 
-◆その他
-・LICENSE(MITライセンスの記載)
-・READNE.md
+◆その他(LICENSE(MITライセンスの記載) , READNE.md)
