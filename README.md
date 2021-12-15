@@ -13,7 +13,8 @@ https://comp.probspace.com/competitions/us_stock_price
 
 ◆その他(LICENSE(MITライセンスの記載) , READNE.md)
 
-# 4.分析に用いるフォルダ構成(以下3つのフォルダを事前に作成)
+# 4.分析に用いるフォルダ構成
+(以下3つのフォルダを事前に作成)
 
 任意のフォルダ　--　原本
 
